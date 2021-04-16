@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/camera-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/camera-test/static/js/main.b34140da.chunk.js",
-    "main.js.map": "/camera-test/static/js/main.b34140da.chunk.js.map",
-    "runtime-main.js": "/camera-test/static/js/runtime-main.f6de626c.js",
-    "runtime-main.js.map": "/camera-test/static/js/runtime-main.f6de626c.js.map",
-    "static/js/2.35605ec4.chunk.js": "/camera-test/static/js/2.35605ec4.chunk.js",
-    "static/js/2.35605ec4.chunk.js.map": "/camera-test/static/js/2.35605ec4.chunk.js.map",
-    "static/js/3.2a35accc.chunk.js": "/camera-test/static/js/3.2a35accc.chunk.js",
-    "static/js/3.2a35accc.chunk.js.map": "/camera-test/static/js/3.2a35accc.chunk.js.map",
-    "index.html": "/camera-test/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/camera-test/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.35605ec4.chunk.js.LICENSE.txt": "/camera-test/static/js/2.35605ec4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/camera-test/static/media/logo.6ce24c58.svg"
+    "main.css": "/camera-test/build/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/camera-test/build/static/js/main.b34140da.chunk.js",
+    "main.js.map": "/camera-test/build/static/js/main.b34140da.chunk.js.map",
+    "runtime-main.js": "/camera-test/build/static/js/runtime-main.a89575c4.js",
+    "runtime-main.js.map": "/camera-test/build/static/js/runtime-main.a89575c4.js.map",
+    "static/js/2.35605ec4.chunk.js": "/camera-test/build/static/js/2.35605ec4.chunk.js",
+    "static/js/2.35605ec4.chunk.js.map": "/camera-test/build/static/js/2.35605ec4.chunk.js.map",
+    "static/js/3.2a35accc.chunk.js": "/camera-test/build/static/js/3.2a35accc.chunk.js",
+    "static/js/3.2a35accc.chunk.js.map": "/camera-test/build/static/js/3.2a35accc.chunk.js.map",
+    "index.html": "/camera-test/build/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/camera-test/build/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.35605ec4.chunk.js.LICENSE.txt": "/camera-test/build/static/js/2.35605ec4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/camera-test/build/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6de626c.js",
+    "static/js/runtime-main.a89575c4.js",
     "static/js/2.35605ec4.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.b34140da.chunk.js"
