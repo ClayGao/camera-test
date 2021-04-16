@@ -1,11 +1,29 @@
 import logo from './logo.svg';
+import { useEffect } from 'react';
 import './App.css';
 
+const gotMedia = (mediaStream) => {
+  const mediaStreamTrack = mediaStream.getVideoTracks()[0];
+  const imageCapture = new ImageCapture(mediaStreamTrack);
+  return imageCapture
+}
+
+const takePicture = () => {
+  return navigator.mediaDevices.getUserMedia({ video: true }).then(res => res)
+}
+
 function App() {
+
+  const testCamera = async () => {
+    const mediaStream = await takePicture();
+    const img = gotMedia(mediaStream)
+    console.log({img})
+  }
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <button onClick={testCamera}>test Camera</button>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
